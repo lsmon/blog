@@ -1,0 +1,68 @@
+.markdown {
+  @apply text-lg leading-relaxed;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  @apply my-6;
+}
+
+.markdown ul {
+  @apply list-disc pl-6;
+}
+
+.markdown ol {
+  @apply list-decimal pl-6;
+}
+
+.markdown blockquote {
+  @apply border-l-4 border-gray-300 italic pl-4 text-gray-600;
+}
+
+.markdown h2 {
+  @apply text-3xl mt-12 mb-4 leading-snug;
+}
+
+.markdown h3 {
+  @apply text-2xl mt-8 mb-4 leading-snug;
+}
+
+/* General code block styling */
+.markdown pre {
+  @apply bg-gray-900 text-white rounded-md p-4 overflow-x-auto;
+}
+
+.markdown code {
+  @apply font-mono;
+}
+
+/* Styling for different parts of C++ syntax */
+.markdown pre .keyword {
+  @apply text-purple-400; /* Keywords like int, return, class */
+}
+
+.markdown pre .type {
+  @apply text-blue-400; /* Types like int, float, char */
+}
+
+.markdown pre .function {
+  @apply text-yellow-300; /* Function names */
+}
+
+.markdown pre .string {
+  @apply text-green-400; /* Strings like "Hello, World!" */
+}
+
+.markdown pre .number {
+  @apply text-orange-400; /* Numbers like 42, 3.14 */
+}
+
+ .markdown pre .comment {
+  @apply text-gray-500 italic; /* Comments like // This is a comment */
+}
+
+.markdown pre .operator {
+  @apply text-pink-400; /* Operators like =, +, - */
+}
