@@ -1,7 +1,7 @@
 ---
 title: "From Guilt to Gratitude: Embracing My Wife’s Final Gift"
 excerpt: “When your wife, in the midst of her own suffering, extends a final gift—a gesture of love or care—it can be overwhelming. The instinct is to feel guilt, to believe that you should be the one giving everything to her. You may wonder how you can possibly repay such a selfless act when she is facing something as profound as death. But her favor isn’t a transaction—it’s a reflection of the deep love she has for you. By shifting from guilt to gratitude, you begin to see her gift not as a debt to be repaid, but as a moment to be cherished. Gratitude allows you to honor her, not by trying to balance the scales, but by fully accepting her love and carrying it with you, letting it shape your heart and your actions long after she is gone.”
-coverImage: "/assets/blog/dual-loss/dual-loss.jpg"
+coverImage: "/assets/blog/gratitude/gratitude.jpg"
 date: "2024-10-17T08:26:10.652Z"
 author:
   name: Salomon Lee
