@@ -1,6 +1,6 @@
 ---
-title: "Second week"
-excerpt: "Writing Your First Program, Understanding the main function, Basic I/O, and Comments"
+title: "Introduction to Data Types and Variables"
+excerpt: "**Data Types and Variables** in C++. we'll cover the basic building blocks of a C++ program—different types of data we can use, how to declare variables, and how to work with constants and literals."
 coverImage: "/assets/blog/cpp/CPP-logo.jpeg"
 date: "2024-10-22T17:33:07.322Z"
 author:

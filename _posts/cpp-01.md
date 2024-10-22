@@ -1,5 +1,5 @@
 ---
-title: "First Lesson"
+title: "Introduction to Programming and C++"
 excerpt: "We will start by understanding what programming is. Programming is the process of creating a set of instructions that tell a computer how to perform specific tasks."
 coverImage: "/assets/blog/cpp/CPP-logo.jpeg"
 date: "2024-10-16T00:28:07.322Z"

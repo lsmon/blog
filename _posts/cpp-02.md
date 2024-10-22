@@ -1,5 +1,5 @@
 ---
-title: "Second week"
+title: "Basic Syntax and Structure"
 excerpt: "Writing Your First Program, Understanding the main function, Basic I/O, and Comments"
 coverImage: "/assets/blog/cpp/CPP-logo.jpeg"
 date: "2024-10-16T02:28:07.322Z"
