@@ -37,3 +37,9 @@ Yet, in this solitude, there’s also space for deep introspection. The intensit
 Right now, the focus isn’t on finding those answers—it’s on surviving. Surviving the overwhelming weight of grief and loss, taking each day as it comes, and knowing that it’s okay to not have everything figured out. The lessons, the meaning, the clarity—they may come later, when the immediate pain has softened. For now, it’s about enduring, as best as you can, through the darkness. It’s about recognizing that the love you shared and the work you did both mattered deeply, even as you face their absence.
 
 The solitude may feel unbearable at times, but you don’t have to carry it all alone. Even in moments where words feel inadequate and support seems distant, there are still people who care, who can offer presence, even if they can’t fully understand. And eventually, though it may not feel like it now, the heavy weight of this isolation may lift, leaving behind something quieter, a space where both grief and resilience can coexist.
+
+---
+
+# Reflection upon myself:
+
+Feelings do not justify reality. As many loved ones had passed away from this world in my lifetime. Reality stays the same. Don't let feeilings define the reality of this world. Quoting my grand mother: ***"The living needs to keep living."***
