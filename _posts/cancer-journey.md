@@ -29,10 +29,10 @@ Despite our efforts and the medical interventions, the cancer proved relentless.
 
 This experience has taught me many lessons about life, health, and resilience:
 
-Health's unpredictability: No matter how well we care for our bodies, we are not immune to the whims of biology.
-The importance of vigilance: Early detection might not always lead to a cure, but it can inform better decision-making.
-The weight of choices in treatment: The decision between aggressive treatment and quality of life is deeply personal and complex.
-Grief and moving forward: Healing is not just about physical recovery; it's a journey of emotional and mental reconciliation.
+* **Health's unpredictability**: No matter how well we care for our bodies, we are not immune to the whims of biology.
+* **The importance of vigilance**: Early detection might not always lead to a cure, but it can inform better decision-making.
+* **The weight of choices in treatment**: The decision between aggressive treatment and quality of life is deeply personal and complex.
+* **Grief and moving forward**: Healing is not just about physical recovery; it's a journey of emotional and mental reconciliation.
 
 I share this not to suggest a link between the vaccine and cancer — for which no scientific evidence exists — but to acknowledge the profound impact of this disease on our lives. It's a reminder of the human condition, where love, loss, and the pursuit of understanding intertwine. 
 
