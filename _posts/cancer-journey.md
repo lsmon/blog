@@ -1,12 +1,10 @@
 ---
 title: "A Journey Through Cancer: One Family's Experience"
-excerpt: "My wife was a beacon of health, maintaining a lifestyle that many would envy — a diet primarily composed of vegetables, consistent but not excessive exercise, and an inspiring influence on those around her, including myself, to adopt healthier habits. Yet, life has a way of challenging our perceptions of invincibility.
+excerpt: "My wife embodied health—eating a mostly plant-based diet, exercising regularly, and inspiring those around her, including me, to live better. But life’s unpredictability shattered our sense of safety. A few months after receiving her second COVID-19 vaccine dose, she noticed a small, painless lump in her breast. Doctors initially dismissed it as benign due to her age—just 36—but within two months, it had grown rapidly. A biopsy confirmed late stage 3 or early stage 4 HER2-positive, progesterone receptor-positive breast cancer.
 
-Several months after her second dose of the mandated COVID-19 vaccine, she discovered a small, painless lump in her left breast. Initially thought to be benign calcification due to her young age of 36, this anomaly grew alarmingly within two months, leading to a biopsy that confirmed breast cancer — HER2-positive and progesterone receptor-positive — at a late stage 3 or early stage 4.
+The treatment plan was intense: chemotherapy, surgery, more chemotherapy, and radiation—with only a 30% chance of surviving 18 months.
 
-The proposed treatment was daunting: chemotherapy, surgery, more chemotherapy, and radiation, with only a 30% chance of survival over 18 months. Despite her deteriorating health, we chose to fight. However, the cancer was relentless, and she eventually became bedridden, passing away peacefully after a long battle.
-
-This experience has taught me about health's unpredictability, the importance of vigilance, the weight of treatment choices, and navigating grief. I share this not to imply causation with the vaccine but to reflect on the profound impact of cancer on our lives."
+This journey taught me how fragile health can be, the weight of medical decisions, and the deep pain of loss. I share this not to suggest a link to the vaccine, but to reflect on the profound and personal toll cancer can take."
 coverImage: "/assets/blog/profile/mirang-sunset.jpg"
 date: "2025-01-05T06:34:07.322Z"
 author:
